@@ -1,0 +1,11 @@
+package pack2;
+
+import pack1.Circle;
+
+public class Main1 {
+      public static void main(String[] args) {
+		Circle circle=new Circle(4);
+		System.out.println(circle.getArea());
+		
+	}
+}

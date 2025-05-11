@@ -1,0 +1,21 @@
+package pack2;
+
+public class Employee {
+     private int id;
+     private String name;
+     private double basic;
+	public Employee(int id, String name, double basic) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.basic = basic;
+	}
+     
+     public Employee() {
+    	 super();
+     }
+     
+     double compureAllowance() {
+    	 return this.basic*0.35;
+     }
+}

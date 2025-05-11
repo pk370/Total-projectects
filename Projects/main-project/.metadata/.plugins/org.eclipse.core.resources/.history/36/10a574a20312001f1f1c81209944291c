@@ -1,0 +1,10 @@
+
+public class IfElseMain {
+	public static void main(String[] args) {
+		int age=40;
+		//write code here
+		//it should print "Eligible for voting", if the age is above or equal 18
+		//it should pring "not eligible for voting", if the age is less than 18
+	}
+
+}

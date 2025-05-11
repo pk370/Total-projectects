@@ -1,0 +1,8 @@
+
+public class IfMain {
+    public static void main(String[] args) {
+		int age=40;
+		//write code here
+		//it should print "Eligible for voting", if the age is above or equal 18
+	}
+} 

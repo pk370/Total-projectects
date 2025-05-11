@@ -1,0 +1,42 @@
+package pack5;
+
+import java.util.Objects;
+
+public class Employee {
+   int id;
+   String name;
+   double basicSalary;
+    public Employee(int id, String name, double basicSalary) {
+	      super();
+	      this.id = id;
+	      this.name = name;
+	      this.basicSalary = basicSalary;
+     }
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", basicSalary=" + basicSalary + "]";
+	}
+	@Override
+	public int hashCode() {
+		return Objects.hash(basicSalary, id, name);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Employee other = (Employee) obj;
+		return Double.doubleToLongBits(basicSalary) == Double.doubleToLongBits(other.basicSalary) && id == other.id
+				&& Objects.equals(name, other.name);
+	}
+    public double getAllowance() {
+        return this.basicSalary*0.35;
+	}
+    public double getBasicSalary() {
+		return basicSalary;
+	}
+   
+}

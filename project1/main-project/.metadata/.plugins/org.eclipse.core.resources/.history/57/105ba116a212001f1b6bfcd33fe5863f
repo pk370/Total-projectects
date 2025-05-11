@@ -1,0 +1,8 @@
+package pack5;
+
+public interface Acceptor<t> {
+	
+	void accept(T t);
+	
+
+}

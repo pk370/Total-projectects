@@ -1,0 +1,16 @@
+package pack5;
+
+public class Circle {
+    int radius;
+    Circle(int radius){
+    	this.radius=radius;
+    }
+    
+    private void setRadius() {
+		// TODO Auto-generated method stub
+
+	}
+    public int getRadius() {
+		return radius;
+	}
+}

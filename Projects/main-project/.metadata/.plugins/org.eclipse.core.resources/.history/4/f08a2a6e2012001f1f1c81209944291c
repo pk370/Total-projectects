@@ -1,0 +1,8 @@
+package pack2;
+
+public class Main7 {
+   public static void main(String[] args) {
+	  //create a list of students.
+	   //perform all the operations
+   }
+}

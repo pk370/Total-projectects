@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="pack1.CarLoan"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="javax.sql.RowSetReader"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="pack2.Employee"/>
+    <fullyQualifiedTypeName name="pack1.Main2"/>
+    <fullyQualifiedTypeName name="pack2.Circle"/>
+    <fullyQualifiedTypeName name="pack1.Main3"/>
+    <fullyQualifiedTypeName name="java.rmi.StubNotFoundException"/>
+    <fullyQualifiedTypeName name="pack2.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="Square"/>
+    <fullyQualifiedTypeName name="Manager"/>
+    <fullyQualifiedTypeName name="SalesEmployee"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="pack1.A"/>
+    <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
+    <fullyQualifiedTypeName name="pack1.Manager"/>
+    <fullyQualifiedTypeName name="pack1.SalesEmployee"/>
+    <fullyQualifiedTypeName name="pack2.Main4"/>
+    <fullyQualifiedTypeName name="pack2.Main5"/>
+    <fullyQualifiedTypeName name="pack1.Student"/>
+    <fullyQualifiedTypeName name="pack1.Loan"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="pack1.EmployeeSalaryDescComparator"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="pack1.Square"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="pack1.Circle"/>
+    <fullyQualifiedTypeName name="pack1.Employee"/>
+</qualifiedTypeNameHistroy>

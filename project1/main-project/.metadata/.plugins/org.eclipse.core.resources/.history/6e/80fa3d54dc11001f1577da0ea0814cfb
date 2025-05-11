@@ -1,0 +1,10 @@
+package pack1;
+
+public class Main3 {
+	  public static void main(String[] args) {
+			System.out.println("program begins..");
+			int arr[]= {10,20,30};
+			System.out.println(arr[2]);
+			System.out.println("program ends");
+		}
+}

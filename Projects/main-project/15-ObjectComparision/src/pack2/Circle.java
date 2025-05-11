@@ -1,0 +1,26 @@
+package pack2;
+
+import javax.sql.RowSetReader;
+
+public class Circle implements Comparable<Circle> {
+	int radius;
+	public Circle() {
+		super();
+		this.radius=radius;
+	}
+	public void setRadius(int radius) {
+		this.radius = radius;
+	}
+	public int getRadius() {
+		return radius;
+	}
+	@Override
+	public int compareTo(Circle o) {
+	      if(this.radius<o.radius)
+	      	return -1;
+	        if(this.radius>o.radius)
+	      	return 1;
+	      return 0;
+	}
+   
+}

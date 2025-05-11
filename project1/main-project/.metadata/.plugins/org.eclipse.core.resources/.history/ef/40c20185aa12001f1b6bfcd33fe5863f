@@ -1,0 +1,13 @@
+package pack5;
+
+public class Main3 {
+         public static void main(String[] args) {
+//			Acceptor<Circle> a1=(Circle c)->{
+//				System.out.println(c.getRadius());
+//			};
+        	 
+        	 Acceptor<Circle> a1=c->System.out.println(c.getRadius());
+        	 a1.accept(new Circle(26));
+		}
+         
+}

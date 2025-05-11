@@ -1,0 +1,25 @@
+
+package pack2;
+
+public class Manager extends Employee{
+	
+	private int employeeCount;
+
+	public Manager() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Manager(int id, String name, double basic) {
+		super(id, name, basic);
+		this.employeeCount=employeeCount;
+	}
+	@Override
+    public double computeAllowance() {
+		double r1=this.computeAllowance();
+		double r2=this.employeeCount*100;
+		return r1+r2;
+	}
+	
+
+}

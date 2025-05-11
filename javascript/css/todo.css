@@ -1,0 +1,29 @@
+.js-input,.js-duedate{
+    font-family: Arial;
+    font-size: 15px;
+    padding: 6px;
+}
+
+.main-div,.js-div1{
+    display: grid;
+    grid-template-columns: 200px 200px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+}
+.main-div{
+    margin-bottom: 10px;
+    align-items: stretch;
+}
+.add-button{
+    background-color: #0dba3b;
+    color:white;
+    border: none;
+    font-size: 15px;
+}
+.delete-button{
+    font-size: 15px;
+    background-color: red;
+    padding:7px;
+    border: none;
+}

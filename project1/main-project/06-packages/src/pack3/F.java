@@ -1,0 +1,10 @@
+package pack3;
+import pack1.A;
+import pack1.B;
+import pack1.C;
+//import pack1.X;//error
+public class F {
+    public static void main(String[] args) {
+		
+	}
+}

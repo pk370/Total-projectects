@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced functions</title>
+</head>
+<body>
+    <script>
+
+        let fun=function greeting(){
+            for(let i=0;i<3;i++){
+            console.log('hello');
+            }
+        }
+        fun();
+
+        function greeting(param){
+            param();
+        }
+        greeting(function(){
+            console.log('this function is being passed as an paramenter to another function');
+        })
+
+    </script>
+</body>
+</html>

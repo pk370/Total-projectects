@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Employee"><rhs name\="Employee"/><rhs name\="Manager"/></lhs><lhs name\="Student"><rhs name\="Student"/></lhs><lhs name\="pack1.Loan"><rhs name\="pack1.CarLoan"/></lhs><lhs name\="pack1.CarLoan"><rhs name\="pack1.CarLoan"/></lhs><lhs name\="java.lang.IllegalArgumentException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.RuntimeException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.NumberFormatException"/><rhs name\="java.lang.Exception"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.NumberFormatException"/><rhs name\="java.lang.Exception"/></lhs><lhs name\="java.lang.NumberFormatException"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="pack2.Employee"><rhs name\="pack2.Employee"/></lhs><lhs name\="pack2.Circle"><rhs name\="pack2.Circle"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="Square"><rhs name\="Square"/></lhs><lhs name\="Manager"><rhs name\="Manager"/></lhs><lhs name\="SalesEmployee"><rhs name\="SalesEmployee"/></lhs><lhs name\="pack1.A"><rhs name\="pack1.A"/></lhs><lhs name\="pack1.Employee"><rhs name\="pack1.SalesEmployee"/><rhs name\="pack1.Employee"/></lhs><lhs name\="java.util.Comparator"><rhs name\="pack1.EmployeeSalaryDescComparator"/></lhs><lhs name\="pack1.EmployeeSalaryDescComparator"><rhs name\="pack1.EmployeeSalaryDescComparator"/></lhs><lhs name\="pack1.Square"><rhs name\="pack1.Square"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

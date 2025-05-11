@@ -1,0 +1,14 @@
+package pack1;
+
+public class Square {
+    
+	int size;
+
+	public Square(int size) {
+		super();
+		this.size = size;
+	}
+	public int getArea() {
+		return this.size*this.size;
+	}
+}
